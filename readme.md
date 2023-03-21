@@ -3,6 +3,10 @@ Official code for article [Data Might be Enough: Bridge Real-World Traffic Signa
 
 # Usage
 
+First, download the memory from our google drive, [memory](https://drive.google.com/drive/folders/1-UilTnQNDdQCpKTLOzWiksCVDWpvXh34?usp=sharing) 
+Or you can prepare your own memory with our provided codes.
+
+
 1. run `run_offline.py`, then get the well-trained models;
 2. run `run_test.py` to test the models on each dataset;
 3. run `run_cycle.py` to get the DataLight-Cycle model;
