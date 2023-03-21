@@ -1,5 +1,5 @@
 # Introduction
-Official code for article `Data might be enough`
+Official code for article [Data Might be Enough: Bridge Real-World Traffic Signal Control Using Offline Reinforcement Learning](https://arxiv.org/abs/2303.10828)
 
 # Usage
 
