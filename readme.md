@@ -21,3 +21,5 @@ Or you can prepare your own memory with our provided codes.
 
  For baseline methods, refer to [Advanced_XLight](https://github.com/LiangZhang1996/Advanced_XLight) and [DynamicLight](https://github.com/LiangZhang1996/DynamicLight).
 
+## License
+This project is licensed under the GNU General Public License version 3 (GPLv3) - see the LICENSE file for details.
