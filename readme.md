@@ -1,3 +1,8 @@
+
+# Notice
+Our article and code have been updated and the new code is avaliable at https://github.com/LiangZhang1996/DataLight.
+
+
 # Introduction
 Official code for article [Data Might be Enough: Bridge Real-World Traffic Signal Control Using Offline Reinforcement Learning](https://arxiv.org/abs/2303.10828)
 
